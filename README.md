@@ -1,3 +1,5 @@
+watch th video for more details !!!
+
 Functionalities:
 
 auth-email and google

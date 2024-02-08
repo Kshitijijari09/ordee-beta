@@ -1,5 +1,8 @@
 watch the video for more details !!!
-<video src='' width=180/>
+
+[Demo Video](https://github.com/Kshitijijari09/ordee-beta/raw/main/video.MP4)
+
+
 Functionalities:
 
 auth-email and google
@@ -15,3 +18,4 @@ Burger menu-settings,account,support,Home
 Account-Update
 
 settings-add tables
+

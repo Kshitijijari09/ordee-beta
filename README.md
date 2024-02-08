@@ -1,4 +1,4 @@
-watch th video for more details !!!
+watch the video for more details !!!
 
 Functionalities:
 

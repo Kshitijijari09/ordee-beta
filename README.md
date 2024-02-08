@@ -1,5 +1,5 @@
 watch the video for more details !!!
-
+<video src='' width=180/>
 Functionalities:
 
 auth-email and google
